@@ -19,4 +19,4 @@ Bei diesem Projekt habe ich mit Arrays, Methoden, Schleifen, Bedingungen und Ben
 ## Videodemo
 Hier ist ein kurzes Video, das zeigt, wie das Programm funktioniert:
 
-[Warehouse Project ansehen] (https://drive.google.com/file/d/1BUfsd9D9BBXMEnCWBq7N5eG4EFEtVc71/view?usp=sharing)
+[Warehouse Project ansehen](https://drive.google.com/file/d/1BUfsd9D9BBXMEnCWBq7N5eG4EFEtVc71/view?usp=sharing)
